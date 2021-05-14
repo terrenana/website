@@ -1,0 +1,12 @@
+body {
+  background-color: #474e5d;
+  font-family: "Times New Roman", Times, serif;
+}
+a {
+    text-decoration:none;
+    color:grey;
+}
+h1 {
+    text-align:center;
+    color:grey;
+}
